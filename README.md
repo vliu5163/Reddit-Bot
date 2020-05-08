@@ -1,2 +1,2 @@
 # Reddit-Bot
-Reddit bot
+This is a fun little project I worked on on the side! I wanted to learn about APIs, so I decided on one that tried to tell if a given string would be "toxic." I decided to apply this on Reddit, where I implemented this code to scrape comments off of various Reddit threads and upvote if the API determined the comment to be not toxic, and downvote if the API determine the comment to be toxic.
